@@ -1,4 +1,4 @@
-module github.com/benmoss/cluster-api-provider-kubemark/hack/tools
+module github.com/kubernetes-sigs/cluster-api-provider-kubemark/hack/tools
 
 go 1.15
 
